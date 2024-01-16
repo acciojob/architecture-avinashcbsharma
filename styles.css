@@ -1,1 +1,19 @@
-/*  your css code here. If applicable */
+div{
+            margin: 0;
+            
+            width: 1100px;
+            background-color: blanchedalmond;
+            border: 1px solid blue;
+            height: 100%;
+        }
+        table,tr,td{
+            border-collapse: collapse;
+            border: 1px solid black;
+            
+        }
+        .cfl{
+            width: 200px;            
+        }
+        .cmid{
+            width: 600px;
+        }
